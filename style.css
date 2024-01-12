@@ -1,0 +1,60 @@
+
+img{
+width:100px;
+height:100px;
+}
+
+.img1{
+border-radius :25px; 
+}
+.img2{
+border-radius :50%;
+}
+.img3{
+border-radius :25px 70% 70%;
+}
+.img4{
+border-radius :25%;
+}
+.img5{
+border-radius :25% 50% 50%;
+}
+.img6{
+border-radius : 60%;
+}
+.img1:hover{
+border-radius :25px;
+box-shadow:15px 20px 20px; 
+margin bottom:10px;
+
+}
+.img2:hover{
+border-radius :25px;
+box-shadow:15px 20px 20px; 
+margin bottom:10px;
+}
+.img3:hover{
+border-radius :25px;
+box-shadow:15px 20px 20px; 
+margin bottom:10px;
+}
+        .img4:hover{
+border-radius :25px;
+box-shadow:15px 20px 20px; 
+margin bottom:10px;
+}
+ .img5:hover{
+border-radius :25px;
+box-shadow:15px 20px 20px; 
+margin bottom:10px;
+}
+      .img6:hover{
+border-radius :50px;
+box-shadow:15px 20px 20px; 
+margin bottom:10px;
+}
+ body{ 
+background-image: url(grey-crowned-crane-bird-crane-animal-45853.jpeg) showdow:black;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
